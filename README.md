@@ -13,7 +13,7 @@ https://www.kaggle.com/datasets/yasserh/titanic-dataset
 This project was developed using Google Colab, a cloud-based platform that allows easy coding, sharing, and access to free GPUs for faster computations.
 
 # Project Demo: 
-1. Video Tutorial: [Titanic Survival Prediction]()
+1. Video Tutorial: [Titanic Survival Prediction](https://youtu.be/-xUMvnOgizM)
 
 # Check out My Projects & Resume
 1. Personal Website: [https://nishchal-kansara.web.app/](https://nishchal-kansara.web.app/)
